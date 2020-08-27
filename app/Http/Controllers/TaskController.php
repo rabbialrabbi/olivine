@@ -52,6 +52,9 @@ class TaskController extends Controller
 
     public function update(Request $request, Task $task)
     {
+        $validation = $request->validate([
+            'task'=>'required|min:3',
+        ]);
         $this->AuthorizedCheck($task);
         $task->update([
            'task'=>$request->task

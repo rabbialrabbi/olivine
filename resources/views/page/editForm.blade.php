@@ -25,6 +25,11 @@
                 <button type="submit" class="btn btn-primary mb-2 px-4">Edit</button>
             </div>
         </div>
+        @if($errors->any())
+            <div class="error text-danger">
+                <p class="pl-4">* {{$errors->first('task')}}</p>
+            </div>
+        @endif
     </form>
 
 @endsection

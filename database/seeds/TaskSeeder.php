@@ -16,7 +16,7 @@ class TaskSeeder extends Seeder
             [
             'user_id'=>1,
             'task'=>'Woke up at 6am',
-        ],
+            ],
             [
                 'user_id'=>1,
                 'task'=>'Take Breakfast at 7am',

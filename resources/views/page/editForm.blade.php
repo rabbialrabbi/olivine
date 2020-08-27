@@ -6,7 +6,7 @@
     {{--    heading--}}
     <h3>Edit ToDo</h3>
 
-    {{--    Add TODO form--}}
+    {{--    Edit TODO form--}}
     <form class="pt-4" method="POST" action="/task/{{$task->id}}">
         @csrf
         @method('PATCH')
@@ -17,7 +17,8 @@
                     <div class="input-group-prepend">
                         <div class="input-group-text">ToDo</div>
                     </div>
-                    <input type="text" name="task" class="form-control" id="inlineFormInputGroup" placeholder="Edit Task" value="{{$task->task}}">
+                    <input type="text" name="task" class="form-control" id="inlineFormInputGroup"
+                           placeholder="Edit Task" value="{{$task->task}}">
                 </div>
             </div>
             <div class="col-md-2 text-center">

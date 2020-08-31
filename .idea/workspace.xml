@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3cf7a3a4-a2b6-4015-8151-d68531982f40" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/TaskController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/TaskController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/page/editForm.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/page/editForm.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,7 +173,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../medicineshop" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
@@ -200,7 +198,9 @@
       <option name="presentableId" value="Default" />
       <updated>1598498322844</updated>
       <workItem from="1598498324815" duration="1420000" />
-      <workItem from="1598499801233" duration="13688000" />
+      <workItem from="1598499801233" duration="13742000" />
+      <workItem from="1598672993019" duration="1294000" />
+      <workItem from="1598845524404" duration="86000" />
     </task>
     <servers />
   </component>
@@ -212,6 +212,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598499591982" />
+    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1598683138984">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598683138984" />
     <state x="794" y="440" key="NewPhpFileDialog" timestamp="1598504676612">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

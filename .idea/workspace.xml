@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3cf7a3a4-a2b6-4015-8151-d68531982f40" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -202,7 +203,7 @@
       <workItem from="1598499801233" duration="13742000" />
       <workItem from="1598672993019" duration="1294000" />
       <workItem from="1598845524404" duration="86000" />
-      <workItem from="1598845625409" duration="1390000" />
+      <workItem from="1598845625409" duration="1945000" />
     </task>
     <servers />
   </component>
@@ -226,9 +227,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="821" y="205" width="286" height="630" key="com.intellij.database.view.ui.DbObjectDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598499651477" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1598504052493">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1598847530106">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1598504052493" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1598847530106" />
   </component>
 </project>
